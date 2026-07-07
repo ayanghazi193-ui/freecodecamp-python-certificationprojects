@@ -5,5 +5,3 @@ budget app
 polygon area calculator
 a hash table
 the tower of hanoi algorithm
-
-User configuration manager branch added
